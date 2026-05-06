@@ -1,8 +1,8 @@
 # 3D RPG · 角色扮演游戏
 
-> **Unity 3D 角色扮演游戏 | 核心开发 | [你的名字]**
+> Unity 3D 角色扮演游戏 | 核心开发 | 
 
-![Gameplay](Demo/demo.gif)
+
 
 ## 项目简介
 
@@ -30,7 +30,7 @@
 
 | 类别 | 技术 |
 |:---|:---|
-| **引擎** | Unity 2021.3 LTS (3D URP) |
+| **引擎** | Unity 2023.2.20 |
 | **编程语言** | C# |
 | **数据配置** | ScriptableObject |
 | **敌人 AI** | 有限状态机 + NavMeshAgent |
