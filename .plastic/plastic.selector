@@ -1,0 +1,4 @@
+repository "Universal-3D RPG@tj_all4uuu@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
