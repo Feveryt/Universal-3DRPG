@@ -35,6 +35,7 @@
 | **数据配置** | ScriptableObject |
 | **敌人 AI** | 有限状态机 + NavMeshAgent |
 | **输入系统** | 旧版 Input Manager + 鼠标事件 |
+| **动画系统** | Animator |
 | **UI** | UGUI + 世界空间 Canvas |
 | **事件通信** | C# event Action、观察者模式 |
 | **场景管理** | Addressables 异步加载 + SceneManager |
